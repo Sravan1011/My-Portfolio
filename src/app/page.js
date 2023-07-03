@@ -16,12 +16,12 @@ export default function Home() {
                 
                 <h1 className='className="text-3xl text-white font-bold'>Hi👋</h1>
                 <p className='my-2 text-left font-serif text-base leading-relaxed text-gray-200 sm:text-lg'>
-                  I'm Sravan a student pursuing Electronics and Telecommunication engineering who
+                  I&apos;m Sravan a student pursuing Electronics and Telecommunication engineering who
                   into generative ai and saas web apps . Working on coding and learning on
                   new skills and making a good products.
                 </p>
                 <p className='my-2 text-left font-serif text-base leading-relaxed text-gray-200 sm:text-lg'>
-                  I'm nineteen,exploring things and creating stuff also intrested in 
+                  I&apos;m nineteen,exploring things and creating stuff also intrested in 
                   playing games , building cool stuff and intrested in theories of astrophysics and 
                   quantum computing and mechanics .
                 </p> 
@@ -51,8 +51,8 @@ export default function Home() {
                           @Sravan1011
                         </span>
                       </a> 
-                      "You can also contact me through my mail id sravanavvaru@gmail.com
-                      and my contact no 8956999808"
+                      &quot;You can also contact me through my mail id sravanavvaru@gmail.com
+                      and my contact no 8956999808&quot;
 
                       </p>
                       
